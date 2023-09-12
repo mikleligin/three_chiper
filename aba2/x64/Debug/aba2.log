@@ -1,0 +1,6 @@
+﻿  aba2.cpp
+D:\123\aba2\aba2\aba2.cpp(52,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\123\aba2\aba2\aba2.cpp(68,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\123\aba2\aba2\aba2.cpp(91,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\123\aba2\aba2\aba2.cpp(91,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  aba2.vcxproj -> D:\123\aba2\x64\Debug\aba2.exe
